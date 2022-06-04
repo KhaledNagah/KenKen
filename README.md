@@ -4,7 +4,7 @@
 
 - NumPy
 ```bash
-sudo apt install python-numpy
+pip install python-numpy
 ```
 
 - Pygame
